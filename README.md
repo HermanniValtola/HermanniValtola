@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a system specialist at a medium sized manufacturing company since 2020. I'm currently studying to finish my bachelors degree in ICT.
+I'm a system specialist that has been involved in IT since 2006. I work at a medium sized manufacturing company since 2020. I'm currently studying to finish my bachelors degree in ICT.
 
 <!--
 **HermanniValtola/HermanniValtola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
